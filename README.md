@@ -213,4 +213,5 @@ http {
 
 * [Добавление модулей nginx в Linux](https://firstwiki.ru/index.php/%D0%94%D0%BE%D0%B1%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%BC%D0%BE%D0%B4%D1%83%D0%BB%D0%B5%D0%B9_nginx_%D0%B2_Linux_(Debian/Ubuntu/CentOS))
 * [Оригинальный репозиторий](https://github.com/kaltura/nginx-aws-auth-module)
+* [nginx](https://nginx.org/download/)
   
